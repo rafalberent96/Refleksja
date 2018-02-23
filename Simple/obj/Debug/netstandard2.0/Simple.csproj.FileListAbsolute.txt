@@ -1,0 +1,11 @@
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\bin\Debug\netstandard2.0\Simple.deps.json
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\bin\Debug\netstandard2.0\Simple.dll
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\bin\Debug\netstandard2.0\Simple.pdb
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\bin\Debug\netstandard2.0\Interface.dll
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\bin\Debug\netstandard2.0\Interface.pdb
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.csprojResolveAssemblyReference.cache
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.csproj.CoreCompileInputs.cache
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.AssemblyInfoInputs.cache
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.AssemblyInfo.cs
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.dll
+C:\Uczelnia\S5\lab4\Lab4_Berent\Refleksja\Simple\obj\Debug\netstandard2.0\Simple.pdb
