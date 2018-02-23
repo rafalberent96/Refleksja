@@ -1,0 +1,27 @@
+﻿<Window x:Class="Refleksja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Refleksja"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="588.771">
+    <StackPanel>
+        
+        <Grid>
+            <Menu  HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="581">
+                <MenuItem Header="Open" Click="MenuItem_Click" />
+            </Menu>
+            <ListBox x:Name="AssemblyListBox" DataContext="{Binding Path}" HorizontalAlignment="Left" Height="106" Margin="10,20,0,0" VerticalAlignment="Top" Width="561" SelectionChanged="AssemblyListBox_SelectionChanged" SelectionMode="Single"/>
+        </Grid>
+        <TextBlock x:Name="DescriptionTextBox"/>
+        <Label Content="X:" Background="Aquamarine"/>
+        <TextBox x:Name="XInPut" Background="Bisque"/>
+        <Label Content="Y:" Background="Aquamarine"/>
+        <TextBox x:Name="YInPut" Background="Bisque"/>
+
+        <Button Content="Execute" Click="Button_Click"/>
+        <Label x:Name="OutputLable"/>
+    </StackPanel>
+
+</Window>
